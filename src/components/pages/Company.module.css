@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1 {
+    margin-bottom: 1em;
+}
+
+.container h1 span {
+    color: #ffbb33;
+    padding: 0 .2em;
+    background-color: #222;
+}
+
+.container h4 {
+    margin-bottom: 1em;
+}
+
+.container p {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
